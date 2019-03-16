@@ -217,6 +217,7 @@ footer {
 
 
 
+<style>
 a.menu-item {
     color: white;
     background-color: crimson;
@@ -227,3 +228,4 @@ a.menu-item {
     text-align: center;
     margin-left: 45%;
 }
+</style>
