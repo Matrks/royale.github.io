@@ -211,21 +211,3 @@ footer {
 }
 
 /* footer -- end */
-
-
-
-
-
-
-<style>
-a.menu-item {
-    color: white;
-    background-color: crimson;
-    border-radius: 10px;
-    padding-left: 25px;
-    padding-right: 25px;
-    padding-top: 30px;
-    text-align: center;
-    margin-left: 45%;
-}
-</style>
